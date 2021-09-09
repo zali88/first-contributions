@@ -24,17 +24,10 @@ Change the commit message to 'Add <your name> to contributors list' and commit y
 
 <br/><br/>
 
-## Push changes to GitHub
-
-
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
 
 
 Now submit the pull request.
 
-
-## Where to go from here?
-
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
