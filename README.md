@@ -8,6 +8,8 @@ A repository to help guide people through making their first contribution to a G
 Fork this repository by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
 
+<img align="right" width="300" src="images/contributors.png" alt="fork this repository" />
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
