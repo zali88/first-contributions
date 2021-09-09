@@ -2,6 +2,7 @@
 A repository to help guide people through making their first contribution to a GitHub project
 
 <img align="right" width="300" src="images/fork.png" alt="fork this repository" />
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top right of this page.
