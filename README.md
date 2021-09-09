@@ -1,19 +1,22 @@
 # First Contributions
 A repository to help guide people through making their first contribution to a GitHub project
 
-<img align="right" width="300" src="images/fork.png" alt="fork this repository" />
-
 ## Fork this repository
+
+<img align="right" width="300" src="images/fork.png" alt="fork this repository" />  
 
 Fork this repository by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
 
-<img align="right" width="300" src="images/contributors.png" alt="fork this repository" />
+<br/><br/>
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+<img align="right" width="300" src="images/contributors.png" alt="fork this repository" />
 
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between.
+
+<br/><br/>
 
 ## Push changes to GitHub
 
