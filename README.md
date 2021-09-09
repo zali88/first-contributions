@@ -3,7 +3,7 @@ A repository to help guide people through making their first contribution to a G
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the fork button on the top right of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
