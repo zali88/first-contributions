@@ -16,7 +16,9 @@ This will create a copy of this repository in your account.
 
 Now open `Contributors.md` by clicking on it in the file list, then click the edit button and add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between.
 
-<br/><br/><br/><br/>
+Change the commit message to 'Add <your name> to contributors list' and commit you changes
+
+<br/><br/>
 
 <img align="right" width="300" src="images/edit.png" alt="fork this repository" />
 
