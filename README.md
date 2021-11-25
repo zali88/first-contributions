@@ -10,6 +10,10 @@ This will create a copy of this repository in your account.
 
 <br/><br/>
 
+## Create a new branch for your change
+
+Click 'main' type in the name of your new branch i.e. 'add-to-contributors' then click 'Create branch'
+
 ## Make necessary changes and commit those changes
 
 <img align="right" width="300" src="images/contributors.png" alt="fork this repository" />
@@ -27,6 +31,8 @@ Change the commit message to 'Add <your name> to contributors list' and commit y
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
+
+By default it will suggest a pull request back into the origin repo. If you want to raise the PR against your own repo change the base repository.
 
 
 Now submit the pull request.
