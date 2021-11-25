@@ -2,7 +2,7 @@
 
 - [Lewis Wilson](https://github.com/lwlsns)
 - [Megan Rowlands](https://github.com/meganrowlands)
-- [Arnold schwarzenegger](https://github.com/arnoldschwarzenegger)
+- [Arnold Schwarzenegger](https://github.com/arnoldschwarzenegger)
 - [Alex Rippon](https://github.com/alexrippon)
 - [Louise Nangla](https://github.com/louisenangla)
 - [Olly](https://github.com/BigGubOlly)
